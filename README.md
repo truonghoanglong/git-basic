@@ -4,4 +4,4 @@
 
 # Không cần origin vì là nhánh mặc định nên git tự hiểu
 
-# Git log
+## khoong caan origin cung co the pull tu  nhanh defau
